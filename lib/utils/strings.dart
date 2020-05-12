@@ -8,5 +8,5 @@ class Strings {
   static const String details = "Details";
 
   static const String measuringPointsTitle = "Measuring point";
-  static const String findMeasuringPoint = "Finde measuring point";
+  static const String findMeasuringPoint = "Find measuring point";
 }
